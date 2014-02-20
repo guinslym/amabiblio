@@ -19,4 +19,5 @@ pickle-email-*.html
 config/initializers/secret_token.rb
 config/database.yml
 app/controller/user*
+config/initializers/devise.rb
 

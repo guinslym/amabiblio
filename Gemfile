@@ -54,5 +54,7 @@ gem 'acts-as-taggable-on'
 gem 'rails-timeago', '~> 2.0'
 gem "font-awesome-rails"
 gem "devise"
+gem 'cancan'
+gem 'rolify'
 gem 'better_errors', group: :development
 gem 'quiet_assets', group: :development
