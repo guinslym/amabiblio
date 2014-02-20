@@ -1,4 +1,6 @@
 Amabiblio::Application.routes.draw do
+  resources :images
+
   resources :events
 
   resources :articles
