@@ -43,3 +43,16 @@ end
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+
+gem 'friendly_id'
+gem 'ckeditor_rails'
+gem "faker"
+gem 'paperclip'
+gem 'nokogiri'
+gem 'mini_magick'
+gem 'acts-as-taggable-on'
+gem 'rails-timeago', '~> 2.0'
+gem "font-awesome-rails"
+gem "devise"
+gem 'better_errors', group: :development
+gem 'quiet_assets', group: :development
