@@ -20,4 +20,6 @@ config/initializers/secret_token.rb
 config/database.yml
 app/controller/user*
 config/initializers/devise.rb
+config/environments/development.rb
+config/environments/production.rb
 
